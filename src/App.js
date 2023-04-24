@@ -5,9 +5,9 @@ import VendingMachine from './VendingMachine';
 import Pepsi from "./Pepsi";
 import Doritos from "./Doritos";
 import Skittles from "./Skittles";
-import Navbar from "./NavBar";
+import Navbar from "./NavBar"
 
-
+//TODO: route to catch anything
 function App() {
   return (
     <div className="App">

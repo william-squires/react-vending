@@ -4,7 +4,7 @@ import "./NavBar.css"
 
 
 
-
+//TODO: css active for navlink
 function Navbar() {
     return (
         <nav className="NavBar">
